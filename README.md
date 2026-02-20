@@ -1,5 +1,5 @@
 # pdf-watermark-remover
-# PDF Logo / Watermark Remover PRO
+# PDF Logo / Watermark Remover 
 
 A free, browser-based tool to remove background logos and watermarks from PDF files directly in your browser.
 
@@ -7,10 +7,8 @@ A free, browser-based tool to remove background logos and watermarks from PDF fi
 
 * Upload PDF files
 * Automatic watermark/logo removal
-* Adjustable cleaning sensitivity
 * Drag & Drop support
 * Progress indicator
-* Dark mode UI
 * Mobile friendly
 * No login or signup
 * 100% free and privacy-safe
@@ -38,7 +36,7 @@ All processing happens locally in your browser — files are never uploaded to a
 Enable GitHub Pages to host this tool for free:
 
 ```
-https://YOUR-USERNAME.github.io/pdf-watermark-remover/
+https://vishalkumar-netizen.github.io/pdf-watermark-remover/
 ```
 
 ## 📦 Installation (Local Use)
